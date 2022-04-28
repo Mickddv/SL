@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('swimlane test', () => {
+describe('create new record', () => {
     beforeEach(() => {
 
     cy.visit('https://qa-practical.qa.swimlane.io/login')
